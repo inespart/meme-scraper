@@ -552,10 +552,10 @@
   resolved "https://registry.yarnpkg.com/@upleveled/babel-plugin-remove-node-prefix/-/babel-plugin-remove-node-prefix-1.0.4.tgz#45592ffe739d272526cadac89c487a423fb97b7a"
   integrity sha512-EBiMQNjGgDWhe/BcDRbb1R4q4SqS9bMH+NDFZMVMk1XrEHUr4Q5kMKZYDtj79y5QSASYCMQ29dLk9SvCv6haVQ==
 
-"@upleveled/eslint-config-upleveled@1.12.0":
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.12.0.tgz#b1134af15535bb18e7ff27af4780af788a9b0735"
-  integrity sha512-k8yyu/yzm2m1+d3NE3X2ImGzawVKPeljNWBgjlYA/grHSK6Far/bSSjoAVkncCDEiM6/TK/iQRI7nNuQefC8ZA==
+"@upleveled/eslint-config-upleveled@1.13.5":
+  version "1.13.5"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.13.5.tgz#b08cc013f057ed4cc8b684863a9c45d4e1b244f1"
+  integrity sha512-VS9fC4oL30ArdJrmES95pr8qoFsJUErIiMKL72zkNzZLg09T9JKdfaVq4ai+MpRBSpUbQvc3WUCMLyDOzWVdmA==
 
 acorn-jsx@^5.3.1:
   version "5.3.1"
