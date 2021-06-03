@@ -21,8 +21,6 @@ const getMemeHtml = async () => {
     }
   });
 
-  // console.log(urlList);
-
   // create loop that counts to 10
   for (const urlElement of urlList) {
     async function download() {
