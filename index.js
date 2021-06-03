@@ -5,6 +5,13 @@ const cheerio = require('cheerio');
 const websiteUrl = 'https://memegen-link-examples-upleveled.netlify.app/';
 const urlList = [];
 
+// make a new folder called memes, if directory is already there create it, if not, don't
+fs.mkdir('./memes', { recursive: true }, (err) => {
+  if (err) {
+    return console.error(err);
+  }
+});
+
 const getMemeHtml = async () => {
   // get html text from websiteUrl and wait for fetch, then continue
   const response = await fetch(websiteUrl);
